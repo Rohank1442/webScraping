@@ -36,9 +36,8 @@ The final enriched data will be saved in a structured format such as JSON or CSV
 **Built With**
 
 This website was built using the following technologies:
-
-Cheerio,
-JSON2CSV,
-Puppeteer,
-Request,
-Request-promise
+1. Cheerio,
+2. JSON2CSV,
+3. Puppeteer,
+4. Request,
+5. Request-promise
