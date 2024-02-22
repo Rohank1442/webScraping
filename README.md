@@ -1,6 +1,6 @@
 # Web Scraping with Puppeteer and Cheerio
 
-`Web-Scraping`
+`Intership-WebMobi`
 
 This Node.js script scrapes event details from a website using Cheerio and Puppeteer. It extracts event information such as name, date, location, description, and organizer information from a predefined HTML content. Additionally, it enriches the data by performing Google searches based on event names and retrieves additional information from the search results.
 
@@ -29,12 +29,6 @@ Update the htmlContent variable in the script with your HTML content containing 
 Run the script using Node.js:
 `node eventbrite.js`
 
-the following commands:
-
-1. npm install
-1. node app.js -> Backend
-1. npm start -> Frontend
-
 The script will extract event details, perform Google searches for each event, and enrich the data with additional information.
 
 The final enriched data will be saved in a structured format such as JSON or CSV in the event.csv file.
@@ -43,8 +37,8 @@ The final enriched data will be saved in a structured format such as JSON or CSV
 
 This website was built using the following technologies:
 
-Cheerio: ^1.0.0-rc.12
-JSON2CSV: ^6.0.0-alpha.2
-Puppeteer: ^22.1.0
-Request: ^2.88.2
-Request-promise: ^4.2.6
+Cheerio,
+JSON2CSV,
+Puppeteer,
+Request,
+Request-promise
